@@ -1,0 +1,16 @@
+{
+  "name": "babel-bug-class-expression-property",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.0.14",
+    "babel-plugin-transform-es2015-classes": "^6.0.14"
+  },
+  "private": true
+}

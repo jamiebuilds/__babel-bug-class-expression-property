@@ -1,0 +1,3 @@
+var obj = {
+  myClass: class {}
+};
